@@ -1,10 +1,19 @@
-# mining_production_optimization
+# Mining Production Optimization
+Professional data wrangling project: mining_production_optimization
 
-Optimize mining operations using production data analysis.
+## Folder Structure
+```
+data/raw/
+data/processed/
+notebooks/
+src/
+reports/
+```
 
-## Project Structure
-- data/raw : Raw datasets
-- data/processed : Cleaned and processed data
-- notebooks : Jupyter notebooks
-- src : Python scripts
-- reports : Analysis reports or output
+## How to run
+```bash
+python src/main.py
+```
+
+## Notes
+Add your datasets and notebooks in their respective folders.

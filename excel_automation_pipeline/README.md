@@ -1,10 +1,19 @@
-# excel_automation_pipeline
+# Excel Automation Pipeline
+Professional data wrangling project: excel_automation_pipeline
 
-Automate Excel data pipelines for enterprise workflows.
+## Folder Structure
+```
+data/raw/
+data/processed/
+notebooks/
+src/
+reports/
+```
 
-## Project Structure
-- data/raw : Raw datasets
-- data/processed : Cleaned and processed data
-- notebooks : Jupyter notebooks
-- src : Python scripts
-- reports : Analysis reports or output
+## How to run
+```bash
+python src/main.py
+```
+
+## Notes
+Add your datasets and notebooks in their respective folders.

@@ -1,10 +1,19 @@
-# insurance_risk_modeling
+# Insurance Risk Modeling
+Professional data wrangling project: insurance_risk_modeling
 
-Analyze insurance risk and calculate premiums using data science.
+## Folder Structure
+```
+data/raw/
+data/processed/
+notebooks/
+src/
+reports/
+```
 
-## Project Structure
-- data/raw : Raw datasets
-- data/processed : Cleaned and processed data
-- notebooks : Jupyter notebooks
-- src : Python scripts
-- reports : Analysis reports or output
+## How to run
+```bash
+python src/main.py
+```
+
+## Notes
+Add your datasets and notebooks in their respective folders.

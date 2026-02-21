@@ -1,10 +1,19 @@
-# graph_fraud_detection
+# Graph Fraud Detection
+Professional data wrangling project: graph_fraud_detection
 
-Detect fraud patterns in graph-based network data.
+## Folder Structure
+```
+data/raw/
+data/processed/
+notebooks/
+src/
+reports/
+```
 
-## Project Structure
-- data/raw : Raw datasets
-- data/processed : Cleaned and processed data
-- notebooks : Jupyter notebooks
-- src : Python scripts
-- reports : Analysis reports or output
+## How to run
+```bash
+python src/main.py
+```
+
+## Notes
+Add your datasets and notebooks in their respective folders.
